@@ -1,4 +1,5 @@
 import pandas as pd
+import matplotlib.pyplot as plt
 
 my_data = pd.read_csv("Data.csv")
 
@@ -17,4 +18,12 @@ print(my_data)
 my_data.loc[7, 'Duration']=45 
 print(my_data)
 
+# The correlation between each variables 
+print("Regina")
+print(my_data.corr())
 
+# Making a plot/chart
+my_data.plot(x='Date')
+
+plt.title("Regina")
+plt.show()
