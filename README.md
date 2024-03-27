@@ -1,4 +1,5 @@
 # Machine Learning for Business Analytics
+Regina 
 
 # Purpose
 
@@ -6,12 +7,8 @@ Looking for junior data analyst position in healthcare indstury
 
 # Education
 
-- asdfsfasf
-- asfsdfsadf
-- asdfsadfsdf
+- Tunghai University Dept of Statistics
 
 # Experience
 
-- sadlfksdafkljdsf
-- sdal;fksda;ljfds
-- asd;lkfsadfjl;sdafj
+
